@@ -1,0 +1,27 @@
+[
+  {
+    "token": "d919da3f7dc258e5b109c2a6ca7f8a6e",
+    "channel": "lidar",
+    "modality": "lidar"
+  },
+  {
+    "token": "ffe76b66d1a255d39996d0caa7cd05c8",
+    "channel": "cam_zed_rgb",
+    "modality": "camera"
+  },
+  {
+    "token": "d0523cabaedf5f5384f20e118e2fe321",
+    "channel": "cam_fish_front",
+    "modality": "camera"
+  },
+  {
+    "token": "836cc95cf02c52bf8910fd75fc224694",
+    "channel": "cam_fish_left",
+    "modality": "camera"
+  },
+  {
+    "token": "7d1d91989fcc5890a3186230a00fe142",
+    "channel": "cam_fish_right",
+    "modality": "camera"
+  }
+]

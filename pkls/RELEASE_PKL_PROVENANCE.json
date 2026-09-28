@@ -1,0 +1,109 @@
+{
+  "method": "current corrected cluster PKL infos, with portable metadata from the generic release generator",
+  "source_dataset": "/home/prabuddhi/cluster/aghri_nuscenes_full_2026-09-07/derived/AGHRI_nuScenes_camera_lidar_full",
+  "source_pkl_root": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived",
+  "generator": "AGHRI-nuScenes-tools/pkl_generation/pkl_generator.py",
+  "generator_options": [
+    "--synchronization-dir",
+    "/home/prabuddhi/cluster/aghri_nuscenes_full_2026-09-07/derived/AGHRI_nuScenes_camera_lidar_full/reports/sync",
+    "--skip-payload-hashes"
+  ],
+  "variants": {
+    "full": {
+      "train": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/full/aghri_full_infos_train.pkl",
+        "canonical_source_sha256": "99c96b1d8011619109419bed9a8d33f738c17ac6ed8834bf40f4f59a27ec1847",
+        "generic_generated_sha256": "ded5887af0443ece671eb39dd4174e5fc94e251e532c1369d75da7648c676d3d",
+        "final_release_sha256": "89512d42c1dde6d67f4d303d34fed15be2700a9cf2da9611b30fcba827285b43",
+        "records": 10468,
+        "checked_side_camera_records": 20936,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "val": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/full/aghri_full_infos_val.pkl",
+        "canonical_source_sha256": "42f0c1301c96318bcb384bebeb74667476b005152d22173c977a8425012bc218",
+        "generic_generated_sha256": "35b8773f940e3acc59b40a9131fe0cf74675f0e8ebb3c632cd02e1d0350414b1",
+        "final_release_sha256": "c200c10bca91036c5cac68d85e8e116959ee4e20e082478d64d9b45ab6ec8abc",
+        "records": 1155,
+        "checked_side_camera_records": 2310,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "test": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/full/aghri_full_infos_test.pkl",
+        "canonical_source_sha256": "a093ea12c7369abcae61abc8733e6f8e502a8a6d140fb5b0a208e8bd81f6612f",
+        "generic_generated_sha256": "8aa6e2f1fadd9d6256f418865d879e68ea718f329581eae4b9ffb63f148294cc",
+        "final_release_sha256": "dc42fe3da5f0594a864a21475ac41b534624e505ab3ccfd91f73ca3bcdb80143",
+        "records": 1260,
+        "checked_side_camera_records": 2520,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      }
+    },
+    "zed_lidar": {
+      "train": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/zed_lidar/aghri_zed_lidar_infos_train.pkl",
+        "canonical_source_sha256": "0abfc506d8dde50f77438d6b64481026a403c085247f9778c50cbb7062058429",
+        "generic_generated_sha256": "3f813aecfeb265c1927c2fc337da179ac7e532f356aab60481ba5932651b0e48",
+        "final_release_sha256": "8b1691631de1063f78b340a22c001e8439fe1f0077b2dd32568389dda74b62e1",
+        "records": 10780,
+        "checked_side_camera_records": 0,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "val": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/zed_lidar/aghri_zed_lidar_infos_val.pkl",
+        "canonical_source_sha256": "b355fcf39d84911b138f1e8fd3bad355793b5afc45f7f6882f51964d9e5d72d6",
+        "generic_generated_sha256": "c2c997a487d485c9e570ce79a9c18e11d1deabb37dfdb792078f9e3e3ca5601d",
+        "final_release_sha256": "1e15459a860b141d8f4200c019f3213a40634531bdfbf96c0a145769d1afe339",
+        "records": 1156,
+        "checked_side_camera_records": 0,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "test": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/zed_lidar/aghri_zed_lidar_infos_test.pkl",
+        "canonical_source_sha256": "40fd6d7027cdf7cd0f498edb9bb8e6ce0fdc4b5f875bcf7df4eb85a6c2cdd77e",
+        "generic_generated_sha256": "86fcaec6693dd0c1fd6d3f8ef47b1471238b73b0c2fc77e75d189473afacb64c",
+        "final_release_sha256": "b92e05fa4c36b82c0785e1d83ac5bdb2b5c66a1cf7219ad4f2265ad07454cb7d",
+        "records": 1264,
+        "checked_side_camera_records": 0,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      }
+    },
+    "fisheye_lidar": {
+      "train": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/fisheye_lidar/aghri_fisheye_lidar_infos_train.pkl",
+        "canonical_source_sha256": "5aca2c21cc651bbe93b9b91eb17854b2f6f224e037bab4828113a468cd568e49",
+        "generic_generated_sha256": "c906e658260ae95574831a451059a1b761d3fdd269b9f0075ae3e6656a151862",
+        "final_release_sha256": "31c116167c5ebc7e8a6a7b551aad20baa28c00ba87f41c16195dbc14131aeff9",
+        "records": 10706,
+        "checked_side_camera_records": 21412,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "val": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/fisheye_lidar/aghri_fisheye_lidar_infos_val.pkl",
+        "canonical_source_sha256": "562b2c5a49a3053ac18282fa9fe585fbac5117b5d1681e41d7f862ffe7131768",
+        "generic_generated_sha256": "f6b606fc97d98175c9b8b1ceae570963f2889b4fa7765b6fbe29b96d724d9d5e",
+        "final_release_sha256": "dfbb85397f80827346f9805e282f2c39d74d757f2c34a7f87a984f23b1a71b08",
+        "records": 1183,
+        "checked_side_camera_records": 2366,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      },
+      "test": {
+        "canonical_source": "/home/prabuddhi/cluster/aghri_nuscenes_pkl_variants_2026-09-12/derived/fisheye_lidar/aghri_fisheye_lidar_infos_test.pkl",
+        "canonical_source_sha256": "298f50867f7688c3cb7b6473dc488b89501d9d03517109c03e1f13484f0f6be2",
+        "generic_generated_sha256": "230b20d3ad8704c2373c7d084914fa4c2de874385e7041bda9210dce152c2c5d",
+        "final_release_sha256": "0633cbb25928d741d29d6de362e2916f5bd6b11d73e2e0df1e46205a0b4108b0",
+        "records": 1280,
+        "checked_side_camera_records": 2560,
+        "metadata_portable": true,
+        "infos_identical_to_canonical": true
+      }
+    }
+  }
+}

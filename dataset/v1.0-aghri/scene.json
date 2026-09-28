@@ -1,0 +1,587 @@
+[
+  {
+    "token": "52672ff86ac35676b268128280e8ecdd",
+    "log_token": "e0334a9dbe9251cf9603a7edf96eb316",
+    "nbr_samples": 45,
+    "first_sample_token": "4c8b33691578543f9bca2c13c96c75ff",
+    "last_sample_token": "b38c51e4d0cc510ea5f430d335863098",
+    "name": "aghri-scene-0001",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "0b4cc147637556c5a5907a63ff8fc97d",
+    "log_token": "4842c173742c5e139cd1c84d61a8ea92",
+    "nbr_samples": 114,
+    "first_sample_token": "2e1d3a50759051c185a1a0aaa567bd90",
+    "last_sample_token": "b296bb1173b45c988fd311673ed6f4c6",
+    "name": "aghri-scene-0002",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "e7bfee7cfbd554af938a27a762f037be",
+    "log_token": "1c59dbe66e6d5b768b4b175e767f1fd1",
+    "nbr_samples": 46,
+    "first_sample_token": "c2aaf51138ce5977b1f72076db52f875",
+    "last_sample_token": "8b757a2de8285032a97a337b5e82e5cf",
+    "name": "aghri-scene-0003",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "2f2de68dc8225a9d90b6797c326cc94c",
+    "log_token": "b279458c77405914a8a965fbc486cbb1",
+    "nbr_samples": 207,
+    "first_sample_token": "feed547ed48d57d2b50faf195239094d",
+    "last_sample_token": "1106eb251a2955999442c12a7d94e3c3",
+    "name": "aghri-scene-0004",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "68b1bb3b39a3584ca8bd79e0435fae11",
+    "log_token": "f245c4c23a3f55db9d17d334b98f5c65",
+    "nbr_samples": 181,
+    "first_sample_token": "5fa096f6e9585fdcac78edf040daff1e",
+    "last_sample_token": "9f653581271452b2b55c5ad0a9e20d27",
+    "name": "aghri-scene-0005",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "214655ef83d250d5b7aada562f16c966",
+    "log_token": "96b579d03b5f5498a744f5cf3f7eab64",
+    "nbr_samples": 113,
+    "first_sample_token": "c76fee176d565322abd1d937f85c43ab",
+    "last_sample_token": "eea616f30eb557d0a56de7d400f4cce4",
+    "name": "aghri-scene-0006",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "e7ec2a4a8fae56efad24c37e8c7dfb29",
+    "log_token": "768412cc71045ef480d29a95aed3a3ef",
+    "nbr_samples": 220,
+    "first_sample_token": "580e3eea8c5a54109a5fd6e97457e020",
+    "last_sample_token": "2288d9e005175d48a3ef4af2b65edd9c",
+    "name": "aghri-scene-0007",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "eb88737f354158b4a0946bc44e22ecc4",
+    "log_token": "7b518f406d685df7bda8e84553393f5d",
+    "nbr_samples": 140,
+    "first_sample_token": "7df231367a045c479c6d6221d783db73",
+    "last_sample_token": "055641aab38d53f986e335b7c901a5c6",
+    "name": "aghri-scene-0008",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "1418e31dc0965bccb12afb1ee43eb93c",
+    "log_token": "574457e261925a778f1fd30fcaf6db11",
+    "nbr_samples": 145,
+    "first_sample_token": "ada0677b7c0056f8a511f4363fd2905b",
+    "last_sample_token": "efd07a9c387554d8bfd35b9c86735738",
+    "name": "aghri-scene-0009",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "8d0eb3600165540a8c28a0eb845585a5",
+    "log_token": "a1ac14cf78a45f2f9267adb5a1b0dac8",
+    "nbr_samples": 237,
+    "first_sample_token": "e28af42e92ab5af9a81dfae91f9b8b6b",
+    "last_sample_token": "b5ec4db403635134ad720bdb770fa10a",
+    "name": "aghri-scene-0010",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "3006a56d3fcd5e02aaea0f155b75a0c9",
+    "log_token": "adfb169442ef56a19b6a448141692eb5",
+    "nbr_samples": 175,
+    "first_sample_token": "82abca74c3ba5c6b8cba01e2862ac2cd",
+    "last_sample_token": "17a133b659e1544eaa355db712f7bb95",
+    "name": "aghri-scene-0011",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "8f7ed2b8735b5be7807a1f5f63584fbd",
+    "log_token": "39bec4f89de451d18aefe65221c72cd7",
+    "nbr_samples": 154,
+    "first_sample_token": "a630f0cbbe2455e1830389bd69a76d7b",
+    "last_sample_token": "83562f27d96559dca8995ed05db75f01",
+    "name": "aghri-scene-0012",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "ddfa30b09a18556297ce43f0687efe3c",
+    "log_token": "afdd668d6be55058ac4176e994fe5bac",
+    "nbr_samples": 136,
+    "first_sample_token": "7d8d98809fe85d7e8205b0b7fcbcb98f",
+    "last_sample_token": "5f5076b5c671565186eb54332bff3679",
+    "name": "aghri-scene-0013",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "d6cde790ad965d78a310e6c36e9440a1",
+    "log_token": "150d6925984c58a78a06754792e369d9",
+    "nbr_samples": 105,
+    "first_sample_token": "e618fc8d9d81571ebc167ab0682daa9a",
+    "last_sample_token": "f6ecb5941803550ea664003e22bd991b",
+    "name": "aghri-scene-0014",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "3a77dcaa715659cca358820d5e57750e",
+    "log_token": "68f23527f5e15bb3a2246f1628ef5224",
+    "nbr_samples": 125,
+    "first_sample_token": "255d21d4d42459e9922f76676876c1c0",
+    "last_sample_token": "cb0357ec7e6b574e97a4aff6fba3f5c3",
+    "name": "aghri-scene-0015",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "ad640674d1f75f0696585bf21de2c5ac",
+    "log_token": "203d780611f35b1d8f02302659978a0d",
+    "nbr_samples": 196,
+    "first_sample_token": "2379bfd0212d5ff0a0c2e80a3ac75fbd",
+    "last_sample_token": "e77bf6e4b23c565f90b50cfabc3fcdd0",
+    "name": "aghri-scene-0016",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "8ac831ed6eae5475a503c0774fb89576",
+    "log_token": "9abd806f91825c11b7b2e2c64c18a60d",
+    "nbr_samples": 309,
+    "first_sample_token": "b3064437426f520392e8b11fddd50a0d",
+    "last_sample_token": "3e2147deaf415c7e96cf630ac9bd2e21",
+    "name": "aghri-scene-0017",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "0285bcf649e75a519b9980f914afbe96",
+    "log_token": "81168a82bea75831b133c290ed1832c1",
+    "nbr_samples": 328,
+    "first_sample_token": "4aa12b5dd45058229572720dc09a934f",
+    "last_sample_token": "4766a99cf1175130916781746d4a05d4",
+    "name": "aghri-scene-0018",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "a95b6cbb473e5b059554587b8d2e0560",
+    "log_token": "329b8a4979b05fc18e9362f46454191b",
+    "nbr_samples": 314,
+    "first_sample_token": "22eddae90c1555bea001a9ca16267003",
+    "last_sample_token": "6b5b9c555bb5547488885436f83c88ee",
+    "name": "aghri-scene-0019",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "ae44ad0bb022527cb163e2b8932f52f9",
+    "log_token": "e5fd524efeab50e7886258317ce806f0",
+    "nbr_samples": 162,
+    "first_sample_token": "c16da79dca155f6eab7f9b44be7c3623",
+    "last_sample_token": "0fd3a21395ef5fe9bbdb99783e613a0a",
+    "name": "aghri-scene-0020",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "720a2bffd986598e9618eaf8afd03101",
+    "log_token": "296e755e0dc851768376755c4b1dd72a",
+    "nbr_samples": 344,
+    "first_sample_token": "0783009d88ff5d9b9696009905fc439d",
+    "last_sample_token": "c5f403d92dfe52cabb2d217dc7a7d058",
+    "name": "aghri-scene-0021",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "b37aba5907f55467aa1ded791ff2dfdb",
+    "log_token": "57e0efd7144659278a4ebf17b2e78865",
+    "nbr_samples": 450,
+    "first_sample_token": "575f4bdc43525e1882cde0799a27b24d",
+    "last_sample_token": "d8d942e25ef354d390fdd99c71444f98",
+    "name": "aghri-scene-0022",
+    "description": "Farmside recording containing human activity."
+  },
+  {
+    "token": "1af3f7796ea85e2f86f828861c708e43",
+    "log_token": "43dc1464eae65c91996bdd7e0cb3042f",
+    "nbr_samples": 141,
+    "first_sample_token": "91e74a3ff72c500ab56af2b90cbe4569",
+    "last_sample_token": "81a0494966255ab4a5213b7b8fe70df6",
+    "name": "aghri-scene-0023",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "e7f30d4500e45c8fa5c1a2922d16dd0a",
+    "log_token": "593f04a6f338552db7daf251cb710b8a",
+    "nbr_samples": 311,
+    "first_sample_token": "5cab00caccb159669eb73e15c6bc2035",
+    "last_sample_token": "038829a3edda5ffbb6e2301f6b498ab9",
+    "name": "aghri-scene-0024",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "e77148b90ce75f7a945357efec362b82",
+    "log_token": "497b1d1826225028ae3d6408ff73f5d6",
+    "nbr_samples": 99,
+    "first_sample_token": "a2b5e453dbc95e409af94acd930522dc",
+    "last_sample_token": "f2abdbd108fe50d7bf6ed638937f0f9d",
+    "name": "aghri-scene-0025",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "182a188dc11758898232521fa2ac2acb",
+    "log_token": "60e3613f2a865ee0a2fd1c51a97ce7c9",
+    "nbr_samples": 405,
+    "first_sample_token": "17aa65bbd53c57969ee452f0c878783e",
+    "last_sample_token": "9d4f5e45bffe5df6b3d6efc37fad17f5",
+    "name": "aghri-scene-0026",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "eb1d5d1ab61652b1a7ec1cbabd4f010f",
+    "log_token": "24f6ed7b795152eb8376d49aab97bfa9",
+    "nbr_samples": 317,
+    "first_sample_token": "7f1ed9ad53c5502484e3596ae274fc2f",
+    "last_sample_token": "71abbf58a7e95a3583b9686edba9dc4c",
+    "name": "aghri-scene-0027",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "4995d227d1b15a4185c3289482b871c8",
+    "log_token": "a89a5de7ea265b24b835d0a55f21f980",
+    "nbr_samples": 307,
+    "first_sample_token": "734e069459355190b761386a48805295",
+    "last_sample_token": "1b227d4d33a557a3a18cca9c8ee3e361",
+    "name": "aghri-scene-0028",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "b06776d8bbf753d5bd86e6e5e3772585",
+    "log_token": "25c8f5081e8350beb5724846af17524c",
+    "nbr_samples": 197,
+    "first_sample_token": "128ec7758fdf57a09527c375bdcffa30",
+    "last_sample_token": "ae71a37673ea5a81b41135f61e2f5a7a",
+    "name": "aghri-scene-0029",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "7ffc413ba2195768a214fda2c5d7ea1c",
+    "log_token": "57dc8ca2878455c7bb0a9cd53561b3f5",
+    "nbr_samples": 345,
+    "first_sample_token": "06454d5136ec5a8e9397857c834a42de",
+    "last_sample_token": "420d2480ea9a591ab7693d88829cb00e",
+    "name": "aghri-scene-0030",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "82a412021e9a5e5aa3e9e2c5a6362a67",
+    "log_token": "31fd7d1a4c92598ca35a2b32d93f3ff9",
+    "nbr_samples": 76,
+    "first_sample_token": "e49c23782e3153039d2a24386f945cd3",
+    "last_sample_token": "1492299921055d0abd54443b47f6443a",
+    "name": "aghri-scene-0031",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "86f7e5c71e8e535da7f841b22bcb3a57",
+    "log_token": "7d6a61a86da85741a18ad5e82b6abc36",
+    "nbr_samples": 295,
+    "first_sample_token": "8d8c666bee3b5f3582cd74891cdc354e",
+    "last_sample_token": "8fd73b437d8a52f0a008d44f7fb838d9",
+    "name": "aghri-scene-0032",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "447b14e158ad53f6a31e5bb6ebf6affc",
+    "log_token": "2ffc59bec3c559bb8533c30520428cb1",
+    "nbr_samples": 267,
+    "first_sample_token": "4cdf923bdbff5e2b8b96e7f3a4dc529a",
+    "last_sample_token": "d77a155c6b935d2cb2f728ab6b5aed1b",
+    "name": "aghri-scene-0033",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "d353baaca07f57fb86a244e46fd64fff",
+    "log_token": "90b34b6097d757239dc209247ee94418",
+    "nbr_samples": 275,
+    "first_sample_token": "62ffb8dd883855e082d50ed545e33b72",
+    "last_sample_token": "be562fad53bd5b68ba07e3392ff51b55",
+    "name": "aghri-scene-0034",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "a8083b0526f05e9b95b7128acba8ff00",
+    "log_token": "df0b3013aa0d5ab0aa62b44e04057825",
+    "nbr_samples": 156,
+    "first_sample_token": "ed4326b9b6c7534b8509376cfaee5af0",
+    "last_sample_token": "b504aaa831675423bc2cee3326d1d526",
+    "name": "aghri-scene-0035",
+    "description": "Inside Vineyard recording containing human activity."
+  },
+  {
+    "token": "d08f1b4d589b55e98411abe01d35e1d9",
+    "log_token": "b0b492f125f65a6bacaa447a8323ab23",
+    "nbr_samples": 146,
+    "first_sample_token": "bac64348578650c1adfbb86f8f5b1038",
+    "last_sample_token": "73a192d1b69450d0896a6f2f27c12fe5",
+    "name": "aghri-scene-0036",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "67c3adf5130c56b2807852b9d7ae7393",
+    "log_token": "38bd9c64a4625323bdef7d2df7a08520",
+    "nbr_samples": 46,
+    "first_sample_token": "182824139e3b5d909df08e18202295a8",
+    "last_sample_token": "41fa88591aa35d32aba7a1d0565cd834",
+    "name": "aghri-scene-0037",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "479033fbb35f5a8c985d9cebeb7293d0",
+    "log_token": "f4ffb13213f753689832645915c6d51e",
+    "nbr_samples": 174,
+    "first_sample_token": "4f5999b7ac9d59c0b32ab84b606cd209",
+    "last_sample_token": "593aeff2066059d695fbdd6bbedef92b",
+    "name": "aghri-scene-0038",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "c6fdb9436c26596195e995839b2249d6",
+    "log_token": "a164108031095b9c8324805f7d791098",
+    "nbr_samples": 196,
+    "first_sample_token": "efbbd58b1d845ca89b3f99c40509c2bf",
+    "last_sample_token": "97df0b6c65f154daaf18d2e31ea45b28",
+    "name": "aghri-scene-0039",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "7499860db5805bad9995780cbbaae8d3",
+    "log_token": "5266131ee9fd54abb4851cc5e220c364",
+    "nbr_samples": 323,
+    "first_sample_token": "e85bcd210b685719867bf25d24fadf70",
+    "last_sample_token": "5b6d3e47c6ed5f94a158b605211a2bf7",
+    "name": "aghri-scene-0040",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "bc22b47669f75bdd9f6c1367d1fdf434",
+    "log_token": "cda7565613855d9fb6d4f938f199a865",
+    "nbr_samples": 131,
+    "first_sample_token": "5a5beb464a0f51b4aa4ace6142d2beaf",
+    "last_sample_token": "7846dbaed4a65a50b25a7df4481aaca6",
+    "name": "aghri-scene-0041",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "c48d41b7e21f5507845dd7188bfba441",
+    "log_token": "2571eec5addc5cda95e41e551511ebb1",
+    "nbr_samples": 322,
+    "first_sample_token": "255534c766c458f5895d2814176362bb",
+    "last_sample_token": "b019625c8ab3589095226c12a10d7fce",
+    "name": "aghri-scene-0042",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "928a9e52c9e35114904d34bd299c632e",
+    "log_token": "c100f34fa0945e58a4ad4b574f58d7c0",
+    "nbr_samples": 138,
+    "first_sample_token": "229a74aa40e05469886dcc04c70a6492",
+    "last_sample_token": "5d15939b61735fa3be6e9c62a923fed9",
+    "name": "aghri-scene-0043",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "c177f1bccb0555bfb799c7d42308f62c",
+    "log_token": "49edc75b3bb25c3ab8323a4fef9ce743",
+    "nbr_samples": 226,
+    "first_sample_token": "7fe97e96ede550cebfc155b0878b6613",
+    "last_sample_token": "3aebba0c71a457fbb097a110c82b3e0e",
+    "name": "aghri-scene-0044",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "db062e987bf05d3ebb320b130cfa9366",
+    "log_token": "b2268e5ee6955bfb9e75fc47571fc5c9",
+    "nbr_samples": 309,
+    "first_sample_token": "59d354430fab5d1ca8ed766a4b71a641",
+    "last_sample_token": "6df4708829305febbfec63a4ef66a0c6",
+    "name": "aghri-scene-0045",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "7e3025e629db5c4a9a3b9c165e27287d",
+    "log_token": "211ee7a3f5585db194c429aed2ed122a",
+    "nbr_samples": 319,
+    "first_sample_token": "ecc37308b3c254b0abf56bb456068f1d",
+    "last_sample_token": "362e27ab7e2c5f63811fb997f9f57839",
+    "name": "aghri-scene-0046",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "539a5f2881e759018f9996e59d53a12d",
+    "log_token": "08151b0a180256dabd06285e0ae507c0",
+    "nbr_samples": 85,
+    "first_sample_token": "85f7037df120524bbc7c87816f6c945c",
+    "last_sample_token": "33d5fb342b2453d692c6bc023cf51b2d",
+    "name": "aghri-scene-0047",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "d84e57871b8e55e2ac8d38446e289b97",
+    "log_token": "5de67c6b55ac5897b9973dbf3b519624",
+    "nbr_samples": 189,
+    "first_sample_token": "9221530bbe575949b3ec5a955e6ad64b",
+    "last_sample_token": "3477fa9ced6d5967985e1a41459279d5",
+    "name": "aghri-scene-0048",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "15cfd1ed61055324adfdb6a17a56adb3",
+    "log_token": "5679408b76e65fdf987907590b7e56d0",
+    "nbr_samples": 173,
+    "first_sample_token": "4683f69a950c58bdbd9e8dc6ea9853cd",
+    "last_sample_token": "bb94e9de8dc7539aa387699ea9a3b114",
+    "name": "aghri-scene-0049",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "2a8eea80f3635e55b87efbba692e8f1e",
+    "log_token": "eb65d167b5925b259df99d6b169100db",
+    "nbr_samples": 299,
+    "first_sample_token": "32a5ffebe52e589cb74872460c4e32fe",
+    "last_sample_token": "e4d195836a9050db919e2bc225630578",
+    "name": "aghri-scene-0050",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "f4b8ed8ff9f05854a7a2918221175649",
+    "log_token": "46d42134522c5ac2a8607901e19ff5c9",
+    "nbr_samples": 289,
+    "first_sample_token": "63824e9107aa5e35916ea987f7609647",
+    "last_sample_token": "8b81c165b2545ac89848da4cb405e49e",
+    "name": "aghri-scene-0051",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "67f308e247fe5208848ea12ed2748e14",
+    "log_token": "6ab27338b3965cee9b8d5dc318b06650",
+    "nbr_samples": 326,
+    "first_sample_token": "782f5003bab853edb459c5de1f79d35c",
+    "last_sample_token": "577d64a130325904a16a198888ede9b1",
+    "name": "aghri-scene-0052",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "5a78e7b5eeae5cd6ae5887a1519ecfa2",
+    "log_token": "f0c513c6b1a658fa9d76baac757d8200",
+    "nbr_samples": 179,
+    "first_sample_token": "b58f3863098e5b99bd82f85e60441d0f",
+    "last_sample_token": "c0ebbbba401e5bb1b39df68157a09206",
+    "name": "aghri-scene-0053",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "9b3bd18a39d75a1bbcafcd205dec5e06",
+    "log_token": "063af75ccbc85ba4be659d9c4daba1b4",
+    "nbr_samples": 190,
+    "first_sample_token": "340467eb87335fe49b7c79fc51cc7a8c",
+    "last_sample_token": "e2508456916d587ebb9c80f90bc82ff7",
+    "name": "aghri-scene-0054",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "8b88bf3d0d75557b82d90fb7421d0a10",
+    "log_token": "d385cb12b1cf5e2d8cb665451e55d0ef",
+    "nbr_samples": 134,
+    "first_sample_token": "99ed0a44314b5e0fb03cf995cb29524b",
+    "last_sample_token": "399b179d6fab5676b4da3ad2a62b558d",
+    "name": "aghri-scene-0055",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "3df735c96430591088e2a984f76f95a8",
+    "log_token": "f70ac4ad00cc56249c27121717c4dfdc",
+    "nbr_samples": 237,
+    "first_sample_token": "b499325e60335fbbb8d70ebd1b7b5b6b",
+    "last_sample_token": "f980ba041763520fad85a8ef0fb5f9b8",
+    "name": "aghri-scene-0056",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "98a7243d8a8654efa7bfcd523658306b",
+    "log_token": "194d62cd11995ba89181549c3abeae06",
+    "nbr_samples": 88,
+    "first_sample_token": "107097c5172259acaee8b13f4b4374bc",
+    "last_sample_token": "12c48f7ddf435c65a9c0e2f75e509fd9",
+    "name": "aghri-scene-0057",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "ce616670d1c55594be8618b58197e183",
+    "log_token": "7b803a9f8b7e525ea2c4faa319a9de76",
+    "nbr_samples": 125,
+    "first_sample_token": "1825f248b1bc51058b0ba1a100550ed3",
+    "last_sample_token": "a37aeb1011ff5155b7be019b0bab30b1",
+    "name": "aghri-scene-0058",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "88f5d09d621c53c28f22183448e92d69",
+    "log_token": "b2a39aeefd4a51e8875224ee5a77f6e4",
+    "nbr_samples": 238,
+    "first_sample_token": "79d093365474596db06c6e46d1d12623",
+    "last_sample_token": "dcb943b1784053979e37091ad1920fa6",
+    "name": "aghri-scene-0059",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "18e738906bec5bfb821b470759744a1f",
+    "log_token": "1671685aa7425c8babc3507f336ce47e",
+    "nbr_samples": 261,
+    "first_sample_token": "35871d576d8d5437b9c83e746b1d2aa3",
+    "last_sample_token": "8235079b67ee556fb0d148fa2e559348",
+    "name": "aghri-scene-0060",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "316782beaaa45ec993803360cf541eb8",
+    "log_token": "82398464c09b5b55a0005c795bf4e73c",
+    "nbr_samples": 200,
+    "first_sample_token": "8f813641f27c544e8f127232bd79a977",
+    "last_sample_token": "3d74eebaa7b755029ecff5509f4c1f8a",
+    "name": "aghri-scene-0061",
+    "description": "Footpath 1 recording containing human activity."
+  },
+  {
+    "token": "935e8f26af925528996f86e320b84b20",
+    "log_token": "f522d63a7bc75722a0b755948bc81edd",
+    "nbr_samples": 108,
+    "first_sample_token": "a9605722a14c5b5ca50ec76cb95b18f4",
+    "last_sample_token": "92dd9395affe568bb447ee9c5f61c645",
+    "name": "aghri-scene-0062",
+    "description": "Inside Strawberry recording containing human activity."
+  },
+  {
+    "token": "e0626ccdd8f950ddb1212e61d1dc19a4",
+    "log_token": "0c967aad6b06560b934a35e20c597c0e",
+    "nbr_samples": 311,
+    "first_sample_token": "cf6d25ef917d59d78ff37af91d76df06",
+    "last_sample_token": "a6717cfe4d1457a69fdf7295e353dce6",
+    "name": "aghri-scene-0063",
+    "description": "Outside Strawberry recording containing human activity."
+  },
+  {
+    "token": "02d5fa55d8b05dc594b65f4a1e98d95f",
+    "log_token": "fb488093b3c85112afb2e9ac29f0f660",
+    "nbr_samples": 131,
+    "first_sample_token": "e4916ef7bc275a5385aa448fc8fa9241",
+    "last_sample_token": "2294d00f68755c928148cd9e2a98ba8d",
+    "name": "aghri-scene-0064",
+    "description": "Outside Vineyard recording containing human activity."
+  },
+  {
+    "token": "2d46989763ff5bf0a0741cece5bec440",
+    "log_token": "4f0e2248c2c1556da0c652dd752241a0",
+    "nbr_samples": 275,
+    "first_sample_token": "59f78f74a7e955f39eaefe89330a32bf",
+    "last_sample_token": "634c514adfbb5d32a001cffb4125e322",
+    "name": "aghri-scene-0065",
+    "description": "Outside Vineyard recording containing human activity."
+  }
+]

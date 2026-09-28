@@ -1,0 +1,250 @@
+[
+  {
+    "token": "5dab500bac6b58a5bc53d613015445bb",
+    "calibrated_sensor_token": "45c35a46c3de54f296a8fd43211c101f",
+    "channel": "cam_zed_rgb",
+    "image_width": 672,
+    "image_height": 376,
+    "camera_model": "pinhole",
+    "distortion_model": "rational_polynomial",
+    "distortion_coefficients": [
+      -1.5600999593734741,
+      28.6781005859375,
+      1.3940600183559582e-05,
+      -4.495289886108367e-06,
+      -10.557900428771973,
+      -1.4501500129699707,
+      28.336299896240234,
+      -7.872819900512695
+    ],
+    "coefficient_order": [
+      "k1",
+      "k2",
+      "p1",
+      "p2",
+      "k3",
+      "k4",
+      "k5",
+      "k6"
+    ],
+    "image_state": "raw",
+    "rectification_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "projection_matrix": [
+      [
+        477.29998779296875,
+        0.0,
+        339.74749755859375,
+        0.0
+      ],
+      [
+        0.0,
+        477.4949951171875,
+        191.94400024414062,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "calibration_source": "calibration/intrinsics.json"
+  },
+  {
+    "token": "ed7c4277b2955e56a01aaf8bfe7eeae5",
+    "calibrated_sensor_token": "344987f6f3bf537385e51a7dfdf45d7e",
+    "channel": "cam_fish_front",
+    "image_width": 640,
+    "image_height": 360,
+    "camera_model": "fisheye",
+    "distortion_model": "equidistant",
+    "distortion_coefficients": [
+      -0.02786,
+      -0.01093,
+      0.007992,
+      -0.004063
+    ],
+    "coefficient_order": [
+      "k1",
+      "k2",
+      "k3",
+      "k4"
+    ],
+    "image_state": "raw",
+    "rectification_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "projection_matrix": [
+      [
+        243.3266,
+        0.74637,
+        322.1046833333333,
+        0.0
+      ],
+      [
+        0.0,
+        242.48178666666666,
+        185.97349333333332,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "calibration_source": "calibration/intrinsics.json"
+  },
+  {
+    "token": "0653d677c44b5172849f974d58be27d9",
+    "calibrated_sensor_token": "a5fa965a77a05ba5ae7264509476f911",
+    "channel": "cam_fish_left",
+    "image_width": 640,
+    "image_height": 360,
+    "camera_model": "fisheye",
+    "distortion_model": "equidistant",
+    "distortion_coefficients": [
+      -0.02786,
+      -0.01093,
+      0.007992,
+      -0.004063
+    ],
+    "coefficient_order": [
+      "k1",
+      "k2",
+      "k3",
+      "k4"
+    ],
+    "image_state": "raw",
+    "rectification_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "projection_matrix": [
+      [
+        243.3266,
+        0.74637,
+        322.1046833333333,
+        0.0
+      ],
+      [
+        0.0,
+        242.48178666666666,
+        185.97349333333332,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "calibration_source": "calibration/intrinsics.json"
+  },
+  {
+    "token": "0c66eb629383528d997a3367db1a72da",
+    "calibrated_sensor_token": "0d05b77b58b25549bdf631ddf4dc0898",
+    "channel": "cam_fish_right",
+    "image_width": 640,
+    "image_height": 360,
+    "camera_model": "fisheye",
+    "distortion_model": "equidistant",
+    "distortion_coefficients": [
+      -0.02786,
+      -0.01093,
+      0.007992,
+      -0.004063
+    ],
+    "coefficient_order": [
+      "k1",
+      "k2",
+      "k3",
+      "k4"
+    ],
+    "image_state": "raw",
+    "rectification_matrix": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "projection_matrix": [
+      [
+        243.3266,
+        0.74637,
+        322.1046833333333,
+        0.0
+      ],
+      [
+        0.0,
+        242.48178666666666,
+        185.97349333333332,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "calibration_source": "calibration/intrinsics.json"
+  }
+]

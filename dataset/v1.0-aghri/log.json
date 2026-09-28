@@ -1,0 +1,457 @@
+[
+  {
+    "token": "e0334a9dbe9251cf9603a7edf96eb316",
+    "logfile": "aghri-recording-0001",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "4842c173742c5e139cd1c84d61a8ea92",
+    "logfile": "aghri-recording-0002",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "1c59dbe66e6d5b768b4b175e767f1fd1",
+    "logfile": "aghri-recording-0003",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "b279458c77405914a8a965fbc486cbb1",
+    "logfile": "aghri-recording-0004",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "f245c4c23a3f55db9d17d334b98f5c65",
+    "logfile": "aghri-recording-0005",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "96b579d03b5f5498a744f5cf3f7eab64",
+    "logfile": "aghri-recording-0006",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "768412cc71045ef480d29a95aed3a3ef",
+    "logfile": "aghri-recording-0007",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "7b518f406d685df7bda8e84553393f5d",
+    "logfile": "aghri-recording-0008",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "574457e261925a778f1fd30fcaf6db11",
+    "logfile": "aghri-recording-0009",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "a1ac14cf78a45f2f9267adb5a1b0dac8",
+    "logfile": "aghri-recording-0010",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "adfb169442ef56a19b6a448141692eb5",
+    "logfile": "aghri-recording-0011",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "39bec4f89de451d18aefe65221c72cd7",
+    "logfile": "aghri-recording-0012",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "afdd668d6be55058ac4176e994fe5bac",
+    "logfile": "aghri-recording-0013",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "150d6925984c58a78a06754792e369d9",
+    "logfile": "aghri-recording-0014",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "68f23527f5e15bb3a2246f1628ef5224",
+    "logfile": "aghri-recording-0015",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "203d780611f35b1d8f02302659978a0d",
+    "logfile": "aghri-recording-0016",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "9abd806f91825c11b7b2e2c64c18a60d",
+    "logfile": "aghri-recording-0017",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "81168a82bea75831b133c290ed1832c1",
+    "logfile": "aghri-recording-0018",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "329b8a4979b05fc18e9362f46454191b",
+    "logfile": "aghri-recording-0019",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "e5fd524efeab50e7886258317ce806f0",
+    "logfile": "aghri-recording-0020",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "296e755e0dc851768376755c4b1dd72a",
+    "logfile": "aghri-recording-0021",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "57e0efd7144659278a4ebf17b2e78865",
+    "logfile": "aghri-recording-0022",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "farmside"
+  },
+  {
+    "token": "43dc1464eae65c91996bdd7e0cb3042f",
+    "logfile": "aghri-recording-0023",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-10-31",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "593f04a6f338552db7daf251cb710b8a",
+    "logfile": "aghri-recording-0024",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-10-31",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "497b1d1826225028ae3d6408ff73f5d6",
+    "logfile": "aghri-recording-0025",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-10-31",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "60e3613f2a865ee0a2fd1c51a97ce7c9",
+    "logfile": "aghri-recording-0026",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-20",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "24f6ed7b795152eb8376d49aab97bfa9",
+    "logfile": "aghri-recording-0027",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-10-10",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "a89a5de7ea265b24b835d0a55f21f980",
+    "logfile": "aghri-recording-0028",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "25c8f5081e8350beb5724846af17524c",
+    "logfile": "aghri-recording-0029",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "57dc8ca2878455c7bb0a9cd53561b3f5",
+    "logfile": "aghri-recording-0030",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "31fd7d1a4c92598ca35a2b32d93f3ff9",
+    "logfile": "aghri-recording-0031",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "7d6a61a86da85741a18ad5e82b6abc36",
+    "logfile": "aghri-recording-0032",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "2ffc59bec3c559bb8533c30520428cb1",
+    "logfile": "aghri-recording-0033",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "90b34b6097d757239dc209247ee94418",
+    "logfile": "aghri-recording-0034",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "df0b3013aa0d5ab0aa62b44e04057825",
+    "logfile": "aghri-recording-0035",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "inside_vineyard"
+  },
+  {
+    "token": "b0b492f125f65a6bacaa447a8323ab23",
+    "logfile": "aghri-recording-0036",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "38bd9c64a4625323bdef7d2df7a08520",
+    "logfile": "aghri-recording-0037",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "f4ffb13213f753689832645915c6d51e",
+    "logfile": "aghri-recording-0038",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "a164108031095b9c8324805f7d791098",
+    "logfile": "aghri-recording-0039",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "5266131ee9fd54abb4851cc5e220c364",
+    "logfile": "aghri-recording-0040",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "cda7565613855d9fb6d4f938f199a865",
+    "logfile": "aghri-recording-0041",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "2571eec5addc5cda95e41e551511ebb1",
+    "logfile": "aghri-recording-0042",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "c100f34fa0945e58a4ad4b574f58d7c0",
+    "logfile": "aghri-recording-0043",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "49edc75b3bb25c3ab8323a4fef9ce743",
+    "logfile": "aghri-recording-0044",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "b2268e5ee6955bfb9e75fc47571fc5c9",
+    "logfile": "aghri-recording-0045",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "211ee7a3f5585db194c429aed2ed122a",
+    "logfile": "aghri-recording-0046",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "08151b0a180256dabd06285e0ae507c0",
+    "logfile": "aghri-recording-0047",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "5de67c6b55ac5897b9973dbf3b519624",
+    "logfile": "aghri-recording-0048",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "5679408b76e65fdf987907590b7e56d0",
+    "logfile": "aghri-recording-0049",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "eb65d167b5925b259df99d6b169100db",
+    "logfile": "aghri-recording-0050",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "46d42134522c5ac2a8607901e19ff5c9",
+    "logfile": "aghri-recording-0051",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "6ab27338b3965cee9b8d5dc318b06650",
+    "logfile": "aghri-recording-0052",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "f0c513c6b1a658fa9d76baac757d8200",
+    "logfile": "aghri-recording-0053",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-14",
+    "location": "footpath_1"
+  },
+  {
+    "token": "063af75ccbc85ba4be659d9c4daba1b4",
+    "logfile": "aghri-recording-0054",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "d385cb12b1cf5e2d8cb665451e55d0ef",
+    "logfile": "aghri-recording-0055",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "f70ac4ad00cc56249c27121717c4dfdc",
+    "logfile": "aghri-recording-0056",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "194d62cd11995ba89181549c3abeae06",
+    "logfile": "aghri-recording-0057",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "7b803a9f8b7e525ea2c4faa319a9de76",
+    "logfile": "aghri-recording-0058",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "b2a39aeefd4a51e8875224ee5a77f6e4",
+    "logfile": "aghri-recording-0059",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "1671685aa7425c8babc3507f336ce47e",
+    "logfile": "aghri-recording-0060",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "82398464c09b5b55a0005c795bf4e73c",
+    "logfile": "aghri-recording-0061",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-12",
+    "location": "footpath_1"
+  },
+  {
+    "token": "f522d63a7bc75722a0b755948bc81edd",
+    "logfile": "aghri-recording-0062",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-10-24",
+    "location": "inside_strawberry"
+  },
+  {
+    "token": "0c967aad6b06560b934a35e20c597c0e",
+    "logfile": "aghri-recording-0063",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-07",
+    "location": "outside_strawberry"
+  },
+  {
+    "token": "fb488093b3c85112afb2e9ac29f0f660",
+    "logfile": "aghri-recording-0064",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  },
+  {
+    "token": "4f0e2248c2c1556da0c652dd752241a0",
+    "logfile": "aghri-recording-0065",
+    "vehicle": "aghri_robot_01",
+    "date_captured": "2024-11-06",
+    "location": "outside_vineyard"
+  }
+]

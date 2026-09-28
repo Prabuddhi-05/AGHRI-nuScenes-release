@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary/output files
+logs/
+outputs/
+work_dirs/
+
+# Model checkpoints
+*.pth
+*.ckpt
+
+# Large/local datasets
+data/
+datasets/
