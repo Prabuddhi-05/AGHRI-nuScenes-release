@@ -21,6 +21,7 @@ The code used for **AGHRI-to-nuScenes-style format conversion**, dataset splitti
 | Converted AGHRI-to-nuScenes-style metadata and PKLs | [AGHRI-nuScenes-release](https://github.com/Prabuddhi-05/AGHRI-nuScenes-release) |
 | Sensor payload ZIP archives (`samples` and `sweeps`) | Link to be added |
 | AGHRI-to-nuScenes conversion and PKL-generation tools | [AGHRI-nuScenes-tools](https://github.com/Prabuddhi-05/AGHRI-nuScenes-tools) |
+| BEVFusion adaptation for AGHRI | [AGHRI-BEVFusion](https://github.com/Prabuddhi-05/AGHRI-BEVFusion) |
 
 > **Important:** The camera and LiDAR payloads are distributed separately from this Git repository. Download all sensor payload ZIP archives and extract them as described below to assemble the complete AGHRI-to-nuScenes-style dataset.
 
